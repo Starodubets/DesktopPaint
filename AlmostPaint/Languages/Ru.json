@@ -1,0 +1,26 @@
+[
+  {
+    "Parrent": "MainForm",
+    "Object": "FormName",
+    "Text": "Рисовалка"
+  },
+  {
+
+    "Parrent": "Menu",
+    "Object": "FileName",
+    "Text": "Файл"
+  },
+  {
+    "Parrent": "Menu",
+    "Object": "FileSave",
+    "Text": "Сохранить"
+
+  },
+  {
+    "Parrent":"Menu",
+    "Object" : "FileSave",
+    "Text" :"Открыть"
+  },
+  {},
+  {}
+]

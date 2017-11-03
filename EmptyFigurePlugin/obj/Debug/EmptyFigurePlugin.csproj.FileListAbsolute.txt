@@ -1,0 +1,10 @@
+C:\Users\Ren\Desktop\AlmostPaint\EmptyFigurePlugin\obj\Debug\EmptyFigurePlugin.csprojResolveAssemblyReference.cache
+C:\Users\Ren\Desktop\AlmostPaint\EmptyFigurePlugin\obj\Debug\EmptyFigurePlugin.Controls.pProperty.resources
+C:\Users\Ren\Desktop\AlmostPaint\EmptyFigurePlugin\obj\Debug\EmptyFigurePlugin.csproj.GenerateResource.Cache
+C:\Users\Ren\Desktop\AlmostPaint\EmptyFigurePlugin\bin\Debug\EmptyFigurePlugin.dll
+C:\Users\Ren\Desktop\AlmostPaint\EmptyFigurePlugin\bin\Debug\EmptyFigurePlugin.pdb
+C:\Users\Ren\Desktop\AlmostPaint\EmptyFigurePlugin\bin\Debug\AlmostPaint.exe
+C:\Users\Ren\Desktop\AlmostPaint\EmptyFigurePlugin\bin\Debug\AlmostPaint.pdb
+C:\Users\Ren\Desktop\AlmostPaint\EmptyFigurePlugin\bin\Debug\AlmostPaint.exe.config
+C:\Users\Ren\Desktop\AlmostPaint\EmptyFigurePlugin\obj\Debug\EmptyFigurePlugin.dll
+C:\Users\Ren\Desktop\AlmostPaint\EmptyFigurePlugin\obj\Debug\EmptyFigurePlugin.pdb
